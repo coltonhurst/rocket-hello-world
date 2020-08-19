@@ -1,3 +1,5 @@
+// https://rocket.rs/v0.4/guide/getting-started/
+
 #![feature(proc_macro_hygiene, decl_macro)]
 
 #[macro_use]
